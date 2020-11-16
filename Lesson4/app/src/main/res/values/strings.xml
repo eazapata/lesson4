@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson4</string>
+    <string name="descarga_png">descarga.png</string>
+    <string name="textview">TextView</string>
+</resources>
